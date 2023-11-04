@@ -2,7 +2,7 @@
 public class Elodie{ // This is classname of the program
      public static void main(String[] args) {
         for(int i = 0; i <= 10; i++){ 
-            if(i==5){
+            if(i==5){//condition
                  break;
             } 
            //This is the output
