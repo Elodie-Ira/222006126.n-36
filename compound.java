@@ -6,7 +6,7 @@ public class compound{
 
     }
     public static void main( String[] args){
-        compound q1= new compound();
+        compound q1= new compound();//Calling the function name
         double interest= q1.interest(50000,18,3);//Calling the object name
         System.out.println("The compound interest of Mr Bob is:" +" " +interest);//The output
     }
